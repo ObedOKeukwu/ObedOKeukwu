@@ -1,16 +1,20 @@
-## Hi there 👋
+Cybersecurity Graduate | Security Analyst
 
-<!--
-**ObedOKeukwu/ObedOKeukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills:
+- SIEM (Splunk)
+- Active Directory
+- Incident Response
+- Network Security
+- Vulnerability Assessment
+- MITRE ATT&CK
+- NIST CSF
 
-Here are some ideas to get you started:
+Projects:
+- Active Directory File Server Lab
+- Splunk Security Monitoring
+- Digital Forensics Lab
+- Social Engineering Analysis
+- Risk Assessment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Location:
+Edmonton, Alberta
