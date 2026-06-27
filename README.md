@@ -1,20 +1,20 @@
-Cybersecurity Graduate | Security Analyst
+👋 Hi, I'm Obed Okeukwu
 
-Skills:
-- SIEM (Splunk)
-- Active Directory
-- Incident Response
-- Network Security
-- Vulnerability Assessment
-- MITRE ATT&CK
-- NIST CSF
+Cybersecurity graduate with hands-on experience in:
 
-Projects:
-- Active Directory File Server Lab
-- Splunk Security Monitoring
-- Digital Forensics Lab
-- Social Engineering Analysis
-- Risk Assessment
+• Security Operations (SOC)
+• SIEM and Security Monitoring
+• Network Security
+• Incident Response
+• Vulnerability Management
+• Penetration Testing
+• Malware Analysis
+• Active Directory Administration
+• FortiGate Firewall Administration
+• Windows Server and Linux Administration
 
-Location:
-Edmonton, Alberta
+Technical Skills:
+Splunk | FortiGate | Wireshark | Active Directory | VMware | Linux | Windows Server | Nmap | Metasploit | OWASP ZAP | MITRE ATT&CK | Microsoft 365
+
+Current Goal:
+Seeking opportunities as a Security Analyst, SOC Analyst, Information Security Officer, or IT Security Analyst.
