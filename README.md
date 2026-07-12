@@ -1,20 +1,20 @@
-👋 Hi, I'm Obed Okeukwu
+IT Infrastructure | Cybersecurity | Systems Administration | Network Security
 
-Cybersecurity graduate with hands-on experience in:
+Diploma in Cybersecurity (NAIT)
 
-• Security Operations (SOC)
-• SIEM and Security Monitoring
-• Network Security
-• Incident Response
-• Vulnerability Management
-• Penetration Testing
-• Malware Analysis
-• Active Directory Administration
-• FortiGate Firewall Administration
-• Windows Server and Linux Administration
+B.Sc. Computer Science
 
-Technical Skills:
-Splunk | FortiGate | Wireshark | Active Directory | VMware | Linux | Windows Server | Nmap | Metasploit | OWASP ZAP | MITRE ATT&CK | Microsoft 365
+Hands-on experience with:
 
-Current Goal:
-Seeking opportunities as a Security Analyst, SOC Analyst, Information Security Officer, or IT Security Analyst.
+Windows Server
+Active Directory
+VMware
+FortiGate
+Microsoft 365
+Splunk SIEM
+Cisco Networking
+Network Security
+
+Certifications:
+
+CompTIA Network+ (In Progress)
